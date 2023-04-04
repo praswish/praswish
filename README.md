@@ -3,6 +3,7 @@
 ## This is the github repository of Praswish Maharjan
 
 This is the test line.
+The example is to close the issue.
 <!--
 **praswish/praswish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
